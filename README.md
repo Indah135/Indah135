@@ -22,7 +22,7 @@ My main focus is on **Frontend Development** ✨
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indahamiati&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=indahamiati&theme=radical" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=indahamiati&theme=radical)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indahamiati&layout=compact&theme=radical" alt="Top Langs" />
 </p>
