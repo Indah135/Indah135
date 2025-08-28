@@ -1,8 +1,12 @@
-# 🌸 Hi, Welcome to My GitHub!  
+# 🌸 Hi there, Welcome to My GitHub! 👋
 
-Hello everyone! 👋  
-I'm **Indah Amiati**, an **Informatics student** at Universitas Teknologi Digital Indonesia.  
-My main focus is on **Frontend Development** ✨  
+Hello everyone!  
+
+I'm **Indah Amiati**, an *Informatics Student* at **Universitas Teknologi Digital Indonesia**.  
+I specialize in **Frontend Development** ✨  
+
+💻 Passionate about building beautiful and interactive web interfaces.  
+🌱 Always eager to learn new technologies and improve my skills.
 
 ---
 
