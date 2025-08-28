@@ -9,11 +9,11 @@ My main focus is on **Frontend Development** ✨
 ## 🚀 Skills
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" width="50" alt="HTML5"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" width="50" alt="CSS3"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" width="50" alt="JavaScript"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" width="50" alt="MySQL"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mariadb.svg" width="50" alt="MariaDB"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" width="50" alt="HTML5" style="color:#E34F26"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" width="50" alt="CSS3" style="color:#1572B6"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" width="50" alt="JavaScript" style="color:#F7DF1E"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" width="50" alt="MySQL" style="color:#4479A1"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mariadb.svg" width="50" alt="MariaDB" style="color:#003545"></td>
 </tr>
 </table>
 
@@ -22,9 +22,9 @@ My main focus is on **Frontend Development** ✨
 ## 🛠️ Tools & Platforms
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/visualstudiocode.svg" width="50" alt="VS Code"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="50" alt="Git"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="50" alt="GitHub"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/visualstudiocode.svg" width="50" alt="VS Code" style="color:#0078D4"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="50" alt="Git" style="color:#F05032"></td>
+  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="50" alt="GitHub" style="color:#181717"></td>
 </tr>
 </table>  
 
@@ -44,14 +44,16 @@ My main focus is on **Frontend Development** ✨
 ## 📬 Get in Touch
 <table>
 <tr>
-  <td><a href="https://www.linkedin.com/in/indah-amiati"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" alt="LinkedIn"></a></td>
-  <td><a href="https://www.instagram.com/indahh_amiati?igsh=dW40ZWljOTZvY3Y0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" alt="Instagram"></a></td>
-  <td><a href="mailto:indahamiati85@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" alt="Email"></a></td>
+  <td><a href="https://www.linkedin.com/in/indah-amiati"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" alt="LinkedIn" style="color:#0A66C2"></a></td>
+  <td><a href="https://www.instagram.com/indahh_amiati?igsh=dW40ZWljOTZvY3Y0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" alt="Instagram" style="color:#E4405F"></a></td>
+  <td><a href="mailto:indahamiati85@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" alt="Email" style="color:#D14836"></a></td>
 </tr>
 </table>  
 
 ---
 
-## 🌼 Fun Fact
-> "Keep learning, keep growing." 🌱
-> "Code never lies, comments sometimes do." 📝  
+## 🌼 Fun Facts
+- 🌱 "Keep learning, keep growing."
+- 📝 "Code never lies, comments sometimes do."
+- 💡 "Simplicity is the soul of efficiency."
+- 🎯 "Focus on progress, not perfection."  
