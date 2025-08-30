@@ -5,14 +5,10 @@ Hello everyone!
 I'm **Indah Amiati**, an *Informatics Student* at **Universitas Teknologi Digital Indonesia**.  
 I specialize in **Frontend Development** ✨  
 
-<h2 align="center">
-  <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); -webkit-background-clip: text; color: transparent;">
-    🌐 Frontend Development✨
-  </span>
-</h2>
----
-
-<p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🌐+Frontend+Development+✨;React.js+|+TailwindCSS+|+UI+Lover" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Indah135/Indah135/main/assets/coding_animation.gif" width="400" alt="Anime Girl Coding"/>
 </p>
 
