@@ -10,8 +10,9 @@ I specialize in **Frontend Development** ✨
 
 ---
 
+## 👩‍💻 Anime Girl Coding
 <p align="center">
-  <img src="https://media.tenor.com/images/f530bd0e6e38c2a7413d58e941e23ea7/tenor.gif" width="400" alt="Anime coding girl"/>
+  <img src="https://raw.githubusercontent.com/Indah135/Indah135/main/assets/anime1.gif" width="400" alt="Anime Girl Coding"/>
 </p>
 
 ---
