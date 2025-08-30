@@ -57,7 +57,8 @@ I specialize in **Frontend Development** ✨
 ---
 
 ## 🐍 GitHub Contributions Snake
-![snake gif](https://raw.githubusercontent.com/Indah135/Indah135/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Indah135/Indah135/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 🌼 Fun Facts
 - 🌱 "Keep learning, keep growing."
