@@ -1,12 +1,15 @@
 # 🌸 Hi there, i'm Indah Amiati 👋 
 
-*Informatics Student* at **Universitas Teknologi Digital Indonesia**.    
+*Informatics Student* at **Universitas Teknologi Digital Indonesia**.   
 
+---
+<p>
 <h2 align="center" style="color:#FFD700;">
-  🌐 Frontend Development ✨
+🌐 Frontend Development ✨
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Indah135/Indah135/main/assets/coding_animation.gif" width="400" alt="Anime Girl Coding"/>
+</p>
 </p>
 
 ---
