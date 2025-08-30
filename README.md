@@ -1,6 +1,4 @@
-# 🌸 Hi there, i'm Indah Amiati 👋 
-
-*Informatics Student* at **Universitas Teknologi Digital Indonesia**.   
+# 🌸 Hi there, i'm Indah Amiati 👋   
 
 <h2 align="center" style="color:#FFD700;">
 🌐 Frontend Development ✨
