@@ -8,7 +8,7 @@ I specialize in **Frontend Development** ✨
 💻 Passionate about building beautiful and interactive web interfaces.  
 🌱 Always eager to learn new technologies and improve my skills.
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/Indah135/Indah135/main/assets/coding_animation.gif" width="400" alt="Anime Girl Coding"/>
 </p>
 
