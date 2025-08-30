@@ -10,6 +10,12 @@ I specialize in **Frontend Development** ✨
 
 ---
 
+<p align="center">
+  <img src="https://media.tenor.com/images/f530bd0e6e38c2a7413d58e941e23ea7/tenor.gif" width="400" alt="Anime coding girl"/>
+</p>
+
+---
+
 ## 🚀 Skills
 <table>
 <tr>
