@@ -2,8 +2,7 @@
 
 Hello everyone!  
 
-I'm **Indah Amiati**, an *Informatics Student* at **Universitas Teknologi Digital Indonesia**.  
-I specialize in **Frontend Development** ✨  
+I'm **Indah Amiati**, an *Informatics Student* at **Universitas Teknologi Digital Indonesia**.    
 
 <h2 align="center" style="color:#FFD700;">
   🌐 Frontend Development ✨
