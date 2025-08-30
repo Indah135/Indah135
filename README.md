@@ -1,8 +1,6 @@
-# 🌸 Hi there, Welcome to My GitHub! 👋
+# 🌸 Hi there, i'm Indah Amiati 👋 
 
-Hello everyone!  
-
-I'm **Indah Amiati**, an *Informatics Student* at **Universitas Teknologi Digital Indonesia**.    
+*Informatics Student* at **Universitas Teknologi Digital Indonesia**.    
 
 <h2 align="center" style="color:#FFD700;">
   🌐 Frontend Development ✨
