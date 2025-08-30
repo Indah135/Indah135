@@ -61,6 +61,5 @@ I specialize in **Frontend Development** ✨
 
 ## 🌼 Fun Facts
 - 🌱 "Keep learning, keep growing."
-- 📝 "Code never lies, comments sometimes do."
 - 💡 "Simplicity is the soul of efficiency."
 - 🎯 "Focus on progress, not perfection."  
