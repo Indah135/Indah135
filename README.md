@@ -44,11 +44,23 @@
 ## 📬 Get in Touch
 <table>
 <tr>
-  <td><a href="https://www.linkedin.com/in/indah-amiati"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="40" alt="LinkedIn" style="color:#0A66C2"></a></td>
-  <td><a href="https://www.instagram.com/indahh_amiati?igsh=dW40ZWljOTZvY3Y0"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="40" alt="Instagram" style="color:#E4405F"></a></td>
-  <td><a href="mailto:indahamiati85@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" width="40" alt="Email" style="color:#D14836"></a></td>
+  <td>
+    <a href="https://www.linkedin.com/in/indah-amiati">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.instagram.com/indahh_amiati?igsh=dW40ZWljOTZvY3Y0">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram">
+    </a>
+  </td>
+  <td>
+    <a href="mailto:indahamiati85@gmail.com">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email">
+    </a>
+  </td>
 </tr>
-</table>  
+</table>
 
 ---
 
