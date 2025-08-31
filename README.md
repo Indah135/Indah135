@@ -2,9 +2,7 @@
 
 - 🎓 Saat ini aku adalah **Mahasiswa Informatika** di **Universitas Teknologi Digital Indonesia**  
 - 🌍 Aku berasal dari **Ambon** yang indah banget 🌊✨  
-- 💻 Fokusku ada di bidang **Frontend Development** (HTML, CSS, JavaScript, React, dll.)  
-- 🌱 Lagi semangat belajar dan mengasah skill di dunia web development  
-- ✨ Fun fact: Aku selalu excited kalau bikin tampilan web jadi lebih cantik dan interaktif 🎨🚀  
+- 💻 Fokusku ada di bidang **Frontend Development**   
 
 ---
 
