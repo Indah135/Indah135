@@ -51,12 +51,12 @@
   </td>
   <td>
     <a href="https://www.instagram.com/indahh_amiati?igsh=dW40ZWljOTZvY3Y0">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram">
+      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40" alt="Instagram">
     </a>
   </td>
   <td>
     <a href="mailto:indahamiati85@gmail.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email">
+      <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="40" alt="Email">
     </a>
   </td>
 </tr>
