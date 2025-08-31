@@ -9,11 +9,11 @@
 ## 🚀 Skills
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" width="50" alt="HTML5" style="color:#E34F26"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" width="50" alt="CSS3" style="color:#1572B6"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" width="50" alt="JavaScript" style="color:#F7DF1E"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" width="50" alt="MySQL" style="color:#4479A1"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mariadb.svg" width="50" alt="MariaDB" style="color:#003545"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB"></td>
 </tr>
 </table>
 
@@ -22,9 +22,9 @@
 ## 🛠️ Tools & Platforms
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/visualstudiocode.svg" width="50" alt="VS Code" style="color:#0078D4"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="50" alt="Git" style="color:#F05032"></td>
-  <td><img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="50" alt="GitHub" style="color:#181717"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"></td>
 </tr>
 </table>  
 
