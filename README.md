@@ -22,9 +22,21 @@
 ## 🛠️ Tools & Platforms
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"></td>
+  <td>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code">
+    </a>
+  </td>
+  <td>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git">
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
+    </a>
+  </td>
 </tr>
 </table>  
 
