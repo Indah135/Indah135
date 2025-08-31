@@ -9,11 +9,31 @@
 ## 🚀 Skills
 <table>
 <tr>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"></td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB"></td>
+  <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5">
+    </a>
+  </td>
+  <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3">
+    </a>
+  </td>
+  <td>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
+    </a>
+  </td>
+  <td>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
+    </a>
+  </td>
+  <td>
+    <a href="https://mariadb.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB">
+    </a>
+  </td>
 </tr>
 </table>
 
