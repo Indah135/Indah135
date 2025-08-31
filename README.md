@@ -56,7 +56,7 @@
   </td>
   <td>
     <a href="mailto:indahamiati85@gmail.com">
-      <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="40" alt="Email">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" alt="Gmail">
     </a>
   </td>
 </tr>
