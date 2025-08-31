@@ -1,8 +1,8 @@
 # 🌸 Hi there, i'm Indah Amiati 👋   
 
-- 🎓 Saat ini aku adalah **Mahasiswa Informatika** di **Universitas Teknologi Digital Indonesia**  
-- 🌍 Aku berasal dari **Ambon** yang indah banget 🌊✨  
-- 💻 Fokusku ada di bidang **Frontend Development**   
+- 🎓 I’m currently an **Informatics student** at **Universitas Teknologi Digital Indonesia**   
+- 🌍 Originally from **Ambon, Indonesia** 🌊✨  
+- 💻 Passionate about **Frontend Development**   
 
 ---
 
