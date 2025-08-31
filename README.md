@@ -1,11 +1,10 @@
 # 🌸 Hi there, i'm Indah Amiati 👋   
 
-<h2 align="center" style="color:#FFD700;">
-🌐 Frontend Development ✨
-</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Indah135/Indah135/main/assets/coding_animation.gif" width="400" alt="Anime Girl Coding"/>
-</p>
+- 🎓 Saat ini aku adalah **Mahasiswa Informatika** di **Universitas Teknologi Digital Indonesia**  
+- 🌍 Aku berasal dari **Ambon** yang indah banget 🌊✨  
+- 💻 Fokusku ada di bidang **Frontend Development** (HTML, CSS, JavaScript, React, dll.)  
+- 🌱 Lagi semangat belajar dan mengasah skill di dunia web development  
+- ✨ Fun fact: Aku selalu excited kalau bikin tampilan web jadi lebih cantik dan interaktif 🎨🚀  
 
 ---
 
