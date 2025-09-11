@@ -96,8 +96,8 @@
 
 ---
 
-## 🐍 GitHub Contributions Snake
-![snake gif](https://raw.githubusercontent.com/Indah135/Indah135/output/snake.svg)
+<!-- ## 🐍 GitHub Contributions Snake
+![snake gif](https://raw.githubusercontent.com/Indah135/Indah135/output/snake.svg) -->
 
 ## 🌼 Fun Facts
 - 🌱 "Keep learning, keep growing."
