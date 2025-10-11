@@ -104,4 +104,3 @@
 - 🌱 "Keep learning, keep growing."
 - 💡 "Simplicity is the soul of efficiency."
 - 🎯 "Focus on progress, not perfection."  
-<h3 align="center"><i>🍕🍜🍩 I love eating all kinds of food </i></h3>
