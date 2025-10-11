@@ -1,4 +1,4 @@
-# 🌸 Hi there, i'm Indah Amiati 👋   
+# 🌸 Hi there, i'm Indah Amiati  
 
 - 🎓 I’m currently an **Informatics student** at **Universitas Teknologi Digital Indonesia**   
 - 🌍 Originally from **Ambon, Indonesia** 🌊✨  
