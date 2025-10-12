@@ -34,6 +34,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB">
     </a>
   </td>
+   <td>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+    </a>
+  </td>
 </tr>
 </table>
 
