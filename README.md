@@ -1,12 +1,14 @@
-# 🌸 Hi there, i'm Indah Amiati  
+# 🌸 Hi there, i'm Indah Amiati
 
-- 🎓 I’m currently an **Informatics student** at **Universitas Teknologi Digital Indonesia**   
-- 🌍 Originally from **Ambon, Indonesia** 🌊✨  
-- 💻 Passionate about **Frontend Development**   
+- 🎓 I’m currently an **Informatics student** at **Universitas Teknologi Digital Indonesia**
+- 🌍 Originally from **Ambon, Indonesia** 🌊✨
+- 💻 Passionate about **Frontend Development**
 - 🩵 I love the color Blue
+
 ---
 
 ## 🚀 Skills
+
 <table>
 <tr>
   <td>
@@ -45,6 +47,7 @@
 ---
 
 ## 🛠️ Tools & Platforms
+
 <table>
 <tr>
   <td>
@@ -64,15 +67,16 @@
   </td>
 <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/laragon/laragon.svg" width="50" alt="Laragon">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fid%2Ffree-png-ahkxc&psig=AOvVaw3ZREmY_ZLPMuB0c4EN1XX8&ust=1760323006361000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj7uK7QnZADFQAAAAAdAAAAABAE" width="50" alt="Laragon">
   </a>
 </td>
 </tr>
-</table>  
+</table>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indah135&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
@@ -83,8 +87,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=indah135&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div> -->
 
-
 ## 📬 Get in Touch
+
 <table>
 <tr>
   <td>
@@ -108,9 +112,11 @@
 ---
 
 ## 🐍 GitHub Contributions Snake
+
 ![snake gif](https://raw.githubusercontent.com/Indah135/Indah135/output/snake.svg)
 
 ## 🌼 Fun Facts
+
 - 🌱 "Keep learning, keep growing."
 - 💡 "Simplicity is the soul of efficiency."
-- 🎯 "Focus on progress, not perfection."  
+- 🎯 "Focus on progress, not perfection."
