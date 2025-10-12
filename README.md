@@ -64,7 +64,7 @@
   </td>
   <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/laragon/laragon/master/resources/laragon.ico" width="50" alt="Laragon">
+    <img src="https://raw.githubusercontent.com/indahamiati/assets/main/laragon.svg" width="50" alt="Laragon">
   </a>
 </td>
 </tr>
