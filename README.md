@@ -64,7 +64,7 @@
   </td>
  <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laragon.svg" width="50" alt="Laragon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laragon" style="filter: hue-rotate(160deg) brightness(1.2);">
   </a>
 </td>
 </tr>
