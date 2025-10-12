@@ -63,10 +63,10 @@
     </a>
   </td>
   <td>
-    <a href="https://laragon.org/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Laragon_Logo.png" width="50" alt="Laragon">
-    </a>
-  </td>
+  <a href="https://laragon.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/laragon/laragon/master/resources/laragon.ico" width="50" alt="Laragon">
+  </a>
+</td>
 </tr>
 </table>  
 
