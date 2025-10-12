@@ -70,11 +70,6 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="70" alt="Laragon">
   </a>
 </td>
-<td>
-    <a href="https://www.phpmyadmin.net/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.svg" width="70" alt="phpMyAdmin">
-    </a>
-  </td>
 </tr>
 </table>
 
