@@ -67,7 +67,7 @@
   </td>
 <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/591/332/png-transparent-laragon-hd-logo-thumbnail.png" width="50" alt="Laragon">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="50" alt="Laragon">
   </a>
 </td>
 </tr>
