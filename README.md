@@ -24,6 +24,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
     </a>
   </td>
+   <td>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+    </a>
+  </td>
   <td>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
@@ -32,11 +37,6 @@
   <td>
     <a href="https://mariadb.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB">
-    </a>
-  </td>
-   <td>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
     </a>
   </td>
 </tr>
