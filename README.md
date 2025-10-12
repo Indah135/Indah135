@@ -62,9 +62,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
     </a>
   </td>
-  <td>
+ <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://i.imgur.com/4ASsEoN.png" width="50" alt="Laragon">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laragon.svg" width="50" alt="Laragon">
   </a>
 </td>
 </tr>
