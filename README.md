@@ -62,9 +62,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
     </a>
   </td>
- <td>
+<td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laragon" style="filter: hue-rotate(160deg) brightness(1.2);">
+    <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/laragon/laragon.svg" width="50" alt="Laragon">
   </a>
 </td>
 </tr>
