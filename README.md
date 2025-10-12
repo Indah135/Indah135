@@ -67,7 +67,7 @@
   </td>
 <td>
   <a href="https://laragon.org/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="50" alt="Laragon">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="100" alt="Laragon">
   </a>
 </td>
 </tr>
