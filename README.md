@@ -118,5 +118,5 @@
 ## 🌼 Fun Facts
 
 - 🌱 "Keep learning, keep growing."
-<!-- - 💡 "Simplicity is the soul of efficiency." -->
+- 💡 "Simplicity is the soul of efficiency."
 - 🎯 "Focus on progress, not perfection."
