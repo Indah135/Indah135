@@ -80,9 +80,8 @@
 <div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=indah135&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="49%" height="200"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=indah135&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="49%" height="165"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=indah135&theme=tokyonight&hide_border=true" height="200px"  width="100%"/>
-
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=indah135&layout=compact&theme=tokyonight&hide_border=true&card_width=445" width="49%" height="165"/>
 </div>
 
 ## 📬 Get in Touch
