@@ -165,6 +165,11 @@
       <img src="https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge" height="30" alt="Kiro">
     </a>
   </td>
+    <td align="center">
+    <a href="https://antigravity.google/" target="_blank">
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Antigravity">
+    </a>
+  </td>
 </tr>
 </table>
 
