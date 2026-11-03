@@ -152,7 +152,7 @@
   </td>
   <td align="center">
     <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" alt="AWS">
+      <img src="https://aws.amazon.com/?nc2=h_home" width="50" alt="AWS">
     </a><br><sub>AWS</sub>
   </td>
   <td align="center">
