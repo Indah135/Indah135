@@ -152,8 +152,8 @@
   </td>
   <td align="center">
     <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://aws.amazon.com/id/blogs/indonesia/amazon-sqs-sekarang-mendukung-pengalaman-konsol-baru/">
-    </a><br><sub>AWS</sub>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" height="30" alt="AWS">
+    </a>
   </td>
   <td align="center">
     <a href="https://kiro.dev/" target="_blank">
