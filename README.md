@@ -9,40 +9,110 @@
 
 ## 🚀 Skills
 
+### 🎨 Frontend
+
 <table>
 <tr>
-  <td>
+  <td align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5">
-    </a>
+    </a><br><sub>HTML5</sub>
   </td>
-  <td>
+  <td align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3">
-    </a>
+    </a><br><sub>CSS3</sub>
   </td>
-  <td>
+  <td align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
-    </a>
+    </a><br><sub>JavaScript</sub>
   </td>
-   <td>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
-    </a>
+  <td align="center">
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React">
+    </a><br><sub>React.js</sub>
   </td>
-  <td>
+  <td align="center">
+    <a href="https://nextjs.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js">
+    </a><br><sub>Next.js</sub>
+  </td>
+  <td align="center">
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS">
+    </a><br><sub>Tailwind CSS</sub>
+  </td>
+  <td align="center">
+    <a href="https://vite.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" alt="Vite">
+    </a><br><sub>Vite</sub>
+  </td>
+</tr>
+</table>
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+  <td align="center">
+    <a href="https://www.php.net/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP">
+    </a><br><sub>PHP</sub>
+  </td>
+  <td align="center">
+    <a href="https://laravel.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel">
+    </a><br><sub>Laravel</sub>
+  </td>
+  <td align="center">
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL">
-    </a>
+    </a><br><sub>MySQL</sub>
   </td>
-  <td>
+  <td align="center">
     <a href="https://mariadb.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB">
+    </a><br><sub>MariaDB</sub>
+  </td>
+  <td align="center">
+    <a href="https://www.phpmyadmin.net/" target="_blank">
+      <img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" width="50" alt="phpMyAdmin">
+    </a><br><sub>phpMyAdmin</sub>
+  </td>
+</tr>
+</table>
+
+> 🔌 Also familiar with **REST API** and **SQL**
+
+### 🤖 Data & AI
+
+<table>
+<tr>
+  <td align="center">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python">
+    </a><br><sub>Python</sub>
+  </td>
+  <td align="center">
+    <a href="https://www.r-project.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" alt="R">
+    </a><br><sub>R</sub>
+  </td>
+  <td align="center">
+    <a href="https://colab.research.google.com/" target="_blank">
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="50" alt="Google Colab">
+    </a><br><sub>Google Colab</sub>
+  </td>
+  <td align="center">
+    <a href="https://www.langflow.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Langflow-1C1C1E?style=for-the-badge" height="30" alt="Langflow">
     </a>
   </td>
 </tr>
 </table>
+
+> 🧠 Machine Learning
 
 ---
 
@@ -50,26 +120,46 @@
 
 <table>
 <tr>
-  <td>
+  <td align="center">
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code">
-    </a>
+    </a><br><sub>VS Code</sub>
   </td>
-  <td>
+  <td align="center">
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git">
-    </a>
+    </a><br><sub>Git</sub>
   </td>
-  <td>
+  <td align="center">
     <a href="https://github.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub">
+    </a><br><sub>GitHub</sub>
+  </td>
+  <td align="center">
+    <a href="https://pages.github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222?style=for-the-badge&logo=githubpages&logoColor=white" height="30" alt="GitHub Pages">
     </a>
   </td>
-<td>
-  <a href="https://laragon.org/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="70" alt="Laragon">
-  </a>
-</td>
+  <td align="center">
+    <a href="https://www.apachefriends.org/" target="_blank">
+      <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="50" alt="XAMPP">
+    </a><br><sub>XAMPP</sub>
+  </td>
+  <td align="center">
+    <a href="https://laragon.org/" target="_blank">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="70" alt="Laragon">
+    </a><br><sub>Laragon</sub>
+  </td>
+  <td align="center">
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" alt="AWS">
+    </a><br><sub>AWS</sub>
+  </td>
+  <td align="center">
+    <a href="https://kiro.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge" height="30" alt="Kiro">
+    </a>
+  </td>
 </tr>
 </table>
 
