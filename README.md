@@ -150,10 +150,10 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbvPW8QiRW6uQaCCcNXMTdUB9hmZBstgQBjBXps9Z2lJWmfIR0J3GkTBuqZx02D7TVlNs&usqp=CAU" width="70" alt="Laragon">
     </a><br><sub>Laragon</sub>
   </td>
-  <td align="center">
+    <td align="center">
     <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logoColor=white" height="30" alt="AWS">
-    </a>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" alt="AWS">
+    </a><br><sub>AWS</sub>
   </td>
   <td align="center">
     <a href="https://kiro.dev/" target="_blank">
