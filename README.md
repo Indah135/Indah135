@@ -152,7 +152,7 @@
   </td>
   <td align="center">
     <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://aws.amazon.com/?nc2=h_home" width="50" alt="AWS">
+      <img src="https://aws.amazon.com/id/blogs/indonesia/amazon-sqs-sekarang-mendukung-pengalaman-konsol-baru/">
     </a><br><sub>AWS</sub>
   </td>
   <td align="center">
