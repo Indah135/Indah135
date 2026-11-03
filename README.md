@@ -109,6 +109,11 @@
       <img src="https://img.shields.io/badge/Langflow-1C1C1E?style=for-the-badge" height="30" alt="Langflow">
     </a>
   </td>
+    <td align="center">
+    <a href="https://www.json.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" alt="JSON">
+    </a><br><sub>JSON</sub>
+  </td>
 </tr>
 </table>
 
